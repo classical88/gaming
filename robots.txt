@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://classical88.github.io/gaming/sitemap.xml
